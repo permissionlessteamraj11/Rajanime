@@ -1,0 +1,6 @@
+{
+  "name": "AnimeHub",
+  "description": "A highly advanced, SEO/AEO/GEO-optimized anime streaming and discovery platform featuring Hindi dubbed series, detailed metadata, and an interactive AI Q&A assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
